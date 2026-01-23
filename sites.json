@@ -104,4 +104,9 @@ window.WEBRING_SITES = [
         "name": "Gaurav Trivedi",
         "description": "Gaurav Trivedi's blog"
     }
+    {
+        "url": "https://greensignal.substack.com/",
+        "name": "Green Signal",
+        "description": "A technical writer builds with AI to make the universe a little brighter."
+    }
 ];
