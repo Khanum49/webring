@@ -104,11 +104,15 @@ window.WEBRING_SITES = [
         "name": "Gaurav Trivedi",
         "description": "Gaurav Trivedi's blog"
     },
+    {
+        "url": "https://all-maker.com/",
+        "name": "Strahinja Milošević",
+        "description": "Tech, crafts, writing, and other shenanigans"
+    },
 		{
 			"url": "https://sailorfe.dev",
 			"name": "sailorfe.dev",
 			"description": "writing about docs, open source, and linux"
-		}
     },
     {
         "url": "https://greensignal.substack.com/",
