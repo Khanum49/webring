@@ -109,4 +109,10 @@ window.WEBRING_SITES = [
 			"name": "sailorfe.dev",
 			"description": "writing about docs, open source, and linux"
 		}
+    },
+    {
+        "url": "https://greensignal.substack.com/",
+        "name": "Green Signal",
+        "description": "A technical writer builds with AI to make the universe a little brighter."
+    }
 ];
