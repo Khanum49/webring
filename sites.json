@@ -124,4 +124,9 @@ window.WEBRING_SITES = [
         "name": "Green Signal",
         "description": "A technical writer builds with AI to make the universe a little brighter."
     }
+    {
+        "url": "https://khanum49.github.io/rabiah-portfolio/",
+        "name": "Rabiah Khanum",
+        "description": "Rabiah's technical writing blog with an engineer's obsession for getting it right."
+    }
 ];
