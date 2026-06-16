@@ -108,5 +108,20 @@ window.WEBRING_SITES = [
         "url": "https://www.adoc-studio.app/blog",
         "name": "adoc Studio Blog",
         "description": "Blog on Technical Writing & Docs-as-Code in AsciiDoc"
+    },
+    {
+        "url": "https://all-maker.com/",
+        "name": "Strahinja Milošević",
+        "description": "Tech, crafts, writing, and other shenanigans"
+    },
+		{
+			"url": "https://sailorfe.dev",
+			"name": "sailorfe.dev",
+			"description": "writing about docs, open source, and linux"
+    },
+    {
+        "url": "https://greensignal.substack.com/",
+        "name": "Green Signal",
+        "description": "A technical writer builds with AI to make the universe a little brighter."
     }
 ];
